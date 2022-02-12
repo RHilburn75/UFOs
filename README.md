@@ -14,8 +14,17 @@ To begin, we'll look at th intial webpage.
 ### City
 We can filter to a city in order to see the data by city
 
+![image](https://user-images.githubusercontent.com/94253815/153730517-0546f407-f2e6-480b-8186-a6d89dd1c5e1.png)
+
+
 ### State
+
+
 
 ### Country
 
+
+
 ### Shape
+
+
