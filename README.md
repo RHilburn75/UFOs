@@ -1,7 +1,7 @@
 # UFOs
 
 ## Resources
-Data Source: UFO Data
+*Data Source: UFO Data
 Software Used:
 *HTML
 *CSS
