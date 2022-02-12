@@ -24,6 +24,7 @@ We can filter to a city in order to see the data by city
 
 ### Country
 
+![image](https://user-images.githubusercontent.com/94253815/153730584-ee8c1535-cd5e-4926-8545-1578dee647b5.png)
 
 
 ### Shape
