@@ -19,6 +19,7 @@ We can filter to a city in order to see the data by city
 
 ### State
 
+![image](https://user-images.githubusercontent.com/94253815/153730568-7cfa1b45-8dae-49b3-8d85-5ef5da94c4e8.png)
 
 
 ### Country
