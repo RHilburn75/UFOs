@@ -9,3 +9,13 @@ This objective of this project was to take our created webpage and add to it, to
 #### Search Criteria
 To begin, we'll look at th intial webpage. 
 
+![image](https://user-images.githubusercontent.com/94253815/153730372-b0b2bd4d-c45a-4c25-bb13-2c2f4763467a.png)
+
+##### City
+We can filter to a city in order to see the data by city
+
+##### State
+
+#### Country
+
+#### Shape
