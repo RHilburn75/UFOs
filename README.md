@@ -18,16 +18,26 @@ We can filter to a city in order to see the data by city
 
 
 ### State
+Just like the "city", we can filter all data by entering a state.
 
 ![image](https://user-images.githubusercontent.com/94253815/153730568-7cfa1b45-8dae-49b3-8d85-5ef5da94c4e8.png)
 
 
 ### Country
+We can also filter by country
 
 ![image](https://user-images.githubusercontent.com/94253815/153730584-ee8c1535-cd5e-4926-8545-1578dee647b5.png)
 
 
 ### Shape
-
+Finally, we can filter by the sape that was reported
 ![image](https://user-images.githubusercontent.com/94253815/153730603-628ed944-017e-4bfb-9b63-b1ea903d3a97.png)
 
+
+
+## Summary
+  This created webpage is a great tool in looking at all of the UFO data.  By adding filters, we are able to drill down our data even more.  It looks great and it does provide good information.  However, there is a drawback.  In order to really get the information you need, you have to know all of the data to really find what you are looking for.  Not all states and countries are listed. To improve on this website, the following would need to be added:
+  1. Drop down boxes for each category.  This would eliminate time in scanning the data to find what you are looking for.
+  2. Expand on the data.  The data show is over 10 years old.  There needs to be a way to update the data.  
+  
+  Oveerall, what was designed will do the job, but to create an efficient web site, incorporating the abouve will make this web site stand out from the rest.
